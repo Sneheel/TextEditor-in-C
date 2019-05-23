@@ -13,8 +13,13 @@ You need to be on Linux operating system.
 ### Features
 
 File Transfer
+
 Encryption & Decryption
+
 Spell Check
+
 Cut, Copy, Paste
+
 Cursor positioning with mouse
+
 Selections. Click one place, and shift-click somewhere else to select.
